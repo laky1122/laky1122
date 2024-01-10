@@ -6,9 +6,9 @@
 
 
 
-<a href="[Spring legacy](#)" target="_blank"><img src="https://img.shields.io/badge/firebase-6DB33F?style=flat-square&logo=firebase&logoColor=white"/></a>
+<a href="[Spring legacy](https://laky1122.github.io/)" target="_blank"><img src="https://img.shields.io/badge/firebase-6DB33F?style=flat-square&logo=firebase&logoColor=white"/></a>
 
-<a href="[Spring boot](#)" target="_blank"><img src="https://img.shields.io/badge/firebase-#FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
+<a href="[Firebase](#)" target="_blank"><img src="https://img.shields.io/badge/firebase-#FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 
 
 <a href="[Spring boot](#)" target="_blank"><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
