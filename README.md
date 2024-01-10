@@ -3,6 +3,16 @@
 
 <a href="[laky1122.github.io](https://laky1122.github.io/)" target="_blank"><img src="https://img.shields.io/badge/github-204ECF?style=flat-square&logo=github&logoColor=white"/></a>
 
+
+
+
+<a href="[Spring legacy](#)" target="_blank"><img src="https://img.shields.io/badge/firebase-6DB33F?style=flat-square&logo=firebase&logoColor=white"/></a>
+
+<a href="[Spring boot](#)" target="_blank"><img src="https://img.shields.io/badge/firebase-#FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
+
+
+<a href="[Spring boot](#)" target="_blank"><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+
 <!--
 **laky1122/laky1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
