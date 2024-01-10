@@ -1,5 +1,5 @@
 <div align="left">
-### Hi there 👋
+
 <h3>📍 MyPage-github.io</h3>
 <div>
   <a href="[laky1122.github.io](https://laky1122.github.io/)" target="_blank">
