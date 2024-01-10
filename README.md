@@ -25,6 +25,9 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laky1122&show_icons=true&theme=shadow_blue)
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
-
+<p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laky1122&show_icons=true&theme=shadow_blue)
+</p>  
+<p>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lasd11)](https://solved.ac/lasd11)
+</p>
