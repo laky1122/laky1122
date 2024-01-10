@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="[gitgub](https://laky1122.github.io/)" target="_blank"><img src="https://img.shields.io/badge/github-204ECF?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="[laky1122.github.io](https://laky1122.github.io/)" target="_blank"><img src="https://img.shields.io/badge/github-204ECF?style=flat-square&logo=github&logoColor=white"/></a>
 
 <!--
 **laky1122/laky1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
