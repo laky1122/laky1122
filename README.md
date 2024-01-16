@@ -33,4 +33,4 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laky1122&show_icons=true&theme=shadow_blue)
 
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lasd11)](https://solved.ac/lasd11) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lasd11)](https://solved.ac/lasd11/)
