@@ -1,11 +1,10 @@
-<div align="left">
+<div align="center">
 
-<h3>📍 MyPage-github.io</h3>
-<div>
-  <a href="[laky1122.github.io](https://laky1122.github.io/)" target="_blank">
-    <img src="https://img.shields.io/badge/github-204ECF?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</div>
+
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaky1122&count_bg=%2393D4ED&title_bg=%23CFCFCF&icon=github.svg&icon_color=%23E5E5E5&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+
 <h4>💪 Skills</h4>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -29,8 +28,8 @@
 </p>
 
 </div>
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laky1122&show_icons=true&theme=shadow_blue)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lasd11)](https://solved.ac/lasd11/)
+<p></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laky1122&show_icons=true&theme=shadow_blue" width="45%">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lasd11" width="38%">
+</p>
