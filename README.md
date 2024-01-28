@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaky1122&count_bg=%2393D4ED&title_bg=%23CFCFCF&icon=github.svg&icon_color=%23E5E5E5&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
-<h4>💪 Skills</h4>
+<h4>💪 My Skills</h4>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
